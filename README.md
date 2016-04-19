@@ -6,3 +6,5 @@ in dev branch
 merge to master
 
 change in master
+&
+change in dev branch
